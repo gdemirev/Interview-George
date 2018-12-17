@@ -10,6 +10,5 @@ MM-Telnet\Haas-Term.cs
 MM-Telnet\MM-Telnet.csproj
 MM-Telnet\MM-Telnet.csproj.user
 MM-Telnet\Program.cs
-MM-Telnet\Properties
 MM-Telnet\Properties\AssemblyInfo.cs
 
