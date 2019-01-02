@@ -1,14 +1,14 @@
-# Interview-George
-interview-george
-
-These are the source files. Here is the directory/file structure:
+//
+//These are the source files. Here is the directory/file structure:
 
 Root:
-MM-Telnet.sln
-MM-Telnet\App.config
-MM-Telnet\Haas-Term.cs
-MM-Telnet\MM-Telnet.csproj
-MM-Telnet\MM-Telnet.csproj.user
-MM-Telnet\Program.cs
-MM-Telnet\Properties\AssemblyInfo.cs
+  MM-Telnet.sln
+  MM-Telnet\
+    App.config
+    Haas-Term.cs
+    MM-Telnet.csproj
+    MM-Telnet.csproj.user
+    Program.cs
+    Properties\
+      AssemblyInfo.cs
 
